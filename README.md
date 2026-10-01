@@ -16,3 +16,5 @@ Please do not harm anyone else's domain! This tool is provided strictly for test
 # Tool By : FHDDOS TEAM Y
 # Created by : FHDDOS TEAM Y
 # Version : 1.0.0
+## 🏷️ Keywords & Topics
+`fhddos` | `mhddos` | `ddos-tool` | `stress-testing` | `penetration-testing` | `cybersecurity` | `network-security` | `python-ddos` | `attack`
