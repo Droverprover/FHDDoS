@@ -94,7 +94,7 @@ def request_once(url, request_id, ua):
 def main():
     banner()
 
-    print("[1] Web Load Test")
+    print("[1] DDoS Attack High [Attack]")
     print("[2] Security Header Scan")
     print("[3] Exit")
 
