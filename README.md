@@ -12,7 +12,7 @@ Please do not harm anyone else's domain! This tool is provided strictly for test
 # python3 main.py
 
 # Information
-Created tool : 2026
-Tool By : FHDDOS TEAM Y
-Created by : FHDDOS TEAM Y
-Version : 1.0.0
+# Created tool : 2026
+# Tool By : FHDDOS TEAM Y
+# Created by : FHDDOS TEAM Y
+# Version : 1.0.0
